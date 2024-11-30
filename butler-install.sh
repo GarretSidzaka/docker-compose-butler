@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# prompt user for the absolute path to the docker compose yaml
+# prompt user for the absolute path to the docker compose yaml https://www.linuxscrew.com/bash-prompt-for-input
 read -p
 
 
