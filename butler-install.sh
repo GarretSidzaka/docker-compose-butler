@@ -4,6 +4,10 @@
 read -p
 
 
+# prompt user if they want to automatically update linux weekly
+
+# prompt user if they want to automatically pull docker images weekly as well
+
 #create a startup cron job https://stackoverflow.com/questions/878600/how-to-create-a-cron-job-using-bash-automatically-without-the-interactive-editor
 
 
